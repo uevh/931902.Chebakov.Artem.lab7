@@ -1,0 +1,29 @@
+.flex-box
+{
+    display: flex;
+}
+
+.absolute
+{
+    position: absolute;
+    border: 2px solid black;
+    opacity: .8;
+}
+
+.round
+{
+    border-radius: 50%;
+    background: green;
+}
+
+.square
+{
+    background: red;
+}
+
+#field
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
